@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning with Python
+# Day 1
 
 This repository contains Jupyter notebooks covering the complete machine learning workflow, from **data preparation** and **data analysis with Pandas** to **classical machine learning** and **deep learning** using PyTorch Lightning.
 

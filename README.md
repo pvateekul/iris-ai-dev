@@ -77,7 +77,54 @@ The first day focuses on the fundamentals of data science and artificial intelli
 
     </details>
 
-* **1.6** IRIS Day 1 Workshop
+### **IRIS Day 1 Workshop**
+
+<!-- TODO: add IRIS workshop -->
+
+AI Coding Assistant Activity using Google Gemini (Colab)
+
+This workshop allows participants to act as **AI-assisted developers**, using Gemini to build data science and machine learning workflows interactively.
+
+---
+
+#### Activity Notebook (Template)
+
+- **AI Coding Assistant – ML (Template)**
+  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Template.ipynb)
+
+---
+
+#### Solution Notebook
+
+- **AI Coding Assistant – ML (Solution)**
+  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Solution.ipynb)
+
+---
+
+#### Workshop Goals
+
+Participants will:
+
+- Use Gemini as a **coding assistant for data analysis**
+- Build a full ML pipeline with AI support
+- Learn how to debug AI-generated code
+- Compare multiple models (LogReg, SVM, KNN, Random Forest)
+- Identify data leakage and evaluation pitfalls
+
+---
+
+#### Suggested Flow
+
+1. Start with the **Template notebook**
+2. Use Gemini to complete each section:
+    - Pandas exploration
+    - Preprocessing
+    - Model training
+    - Evaluation
+3. Compare with the **Solution notebook**
+4. Discuss differences and improvements
 
 ---
 
