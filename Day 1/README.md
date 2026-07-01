@@ -45,6 +45,14 @@ Day 1
 │   ├── 5_Time_series_forecasting_DataInGD.ipynb
 │   └── 5_Time_series_forecasting_DataInGD_update.ipynb
 │
+├── Prompt Engineering/
+│   ├── 1_LLM_Basic_API_Call_LangChain.ipynb
+│   ├── 2_LLM_Prompt_Engineering_Basic_LangChain.ipynb
+│   ├── 3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb
+│   ├── 4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb
+│   ├── 5_LLM_Basic_LangGraph.ipynb
+│   └── 6_LLM_RAG_LangChain_LangGraph.ipynb
+│
 └── README.md
 ```
 
@@ -119,6 +127,21 @@ This folder demonstrates modern deep learning applications using PyTorch Lightni
 
 ---
 
+## Prompt Engineering
+
+This folder introduces modern Large Language Model (LLM) application development using LangChain and LangGraph.
+
+| Notebook                                                        | Description                                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| `1_LLM_Basic_API_Call_LangChain.ipynb`                          | Introduction to calling LLM APIs using LangChain.                       |
+| `2_LLM_Prompt_Engineering_Basic_LangChain.ipynb`                | Fundamentals of prompt engineering with LangChain.                      |
+| `3_LLM_Prompt_Engineering_Advanced_LangChain.ipynb`             | Advanced prompt engineering techniques, prompt templates, and chaining. |
+| `4_LLM_LangChain_Playground_Tracking_with_LangSmith_Groq.ipynb` | Experiment tracking and debugging using LangSmith with Groq models.     |
+| `5_LLM_Basic_LangGraph.ipynb`                                   | Building stateful LLM workflows using LangGraph.                        |
+| `6_LLM_RAG_LangChain_LangGraph.ipynb`                           | Retrieval-Augmented Generation (RAG) using LangChain and LangGraph.     |
+
+---
+
 # Recommended Learning Order
 
 For beginners, it is recommended to follow the notebooks in this order:
@@ -139,3 +162,10 @@ For beginners, it is recommended to follow the notebooks in this order:
     * Explore object detection.
     * Learn semantic segmentation.
     * Finish with time series forecasting.
+
+5. **Prompt Engineering**
+    * Learn how to interact with LLMs using LangChain.
+    * Study prompt engineering best practices.
+    * Build AI workflows with LangGraph.
+    * Learn experiment tracking with LangSmith.
+    * Implement Retrieval-Augmented Generation (RAG) applications.
