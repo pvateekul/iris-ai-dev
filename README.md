@@ -97,7 +97,7 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
 
 #### Activity Notebook (Template)
 
-- **AI Coding Assistant – Basic Python (Template)**  
+- **AI Coding Assistant – Python (Template)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_Python%20-%20Template.ipynb)
 
 - **AI Coding Assistant – ML (Template)**  
@@ -108,7 +108,7 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
 
 #### Solution Notebook
 
-- **AI Coding Assistant – Basic Python (Solution)**  
+- **AI Coding Assistant – Python (Solution)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_Python%20-%20Solution.ipynb)
 
 - **AI Coding Assistant – ML (Solution)**  
