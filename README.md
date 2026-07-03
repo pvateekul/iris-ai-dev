@@ -4,6 +4,16 @@ This repository contains the course materials, hands-on laboratories, and worksh
 
 ---
 
+## 🛠️ Setup & Manuals
+
+| Item | Manual |
+| :--- | :--- |
+| OpenAI API Key | [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1UpW0-7PNaeWjs2EGLisDazIGes8GaXdS/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true) |
+| Groq API Key | [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1OFwzdRdfgwD4coupj9H8qKJAUJUIq781/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true) |
+| Codex / Ultralytics | [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1lLM46z8YWxLd3a2zkb5dX0MASFGpInz5e8UzMY_Nk80/edit?usp=sharing) |
+
+---
+
 # Course Outline
 
 ## Day 1: Machine Learning & Deep Learning
@@ -119,9 +129,27 @@ The second day introduces modern Generative AI development, including LLM framew
 ### Modules
 
 * **2.1** LLM Frameworks: LangChain, LangGraph, and LangSmith
+
 * **2.2** OpenAI Codex (Standalone)
+	<details>
+	<summary>View notebooks</summary>
+
+	1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-ai-dev/main/Day_2/Codex/assets/codex_lab_attachments.zip)
+	2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
+
+	</details>
+
 * **2.3** OpenAI Codex for Visual Studio Code (Full-Stack Software Development)
+
 * **2.4** OpenClaw
+	<details>
+	<summary>View notebooks</summary>
+
+	1. OpenClaw Lab Demo Prompts: [Prompt Templates](./Day%202/OpenClaw/Prompts.md)
+	2. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/OpenClaw/slides/OpenClaw.pdf)
+
+	</details>
+
 * **2.5** IRIS Day 2 Workshop
 
 ---
