@@ -83,7 +83,24 @@ AI Coding Assistant Activity using Google Gemini (Colab)
 
 This workshop allows participants to act as **AI-assisted developers**, using Gemini to build data science and machine learning workflows interactively.
 
+> **Setup Notes**
+>
+> **1. Enable Gemini AI features in Colab**
+> - Go to **Tools → Settings → AI assistance**.
+> - Turn **off** **Hide generative AI features**.
+> - Turn **on** **Show AI-powered inline completions**.
+> - Ensure **Consented to use generative AI features** is enabled.
+>
+> **2. For the Deep Learning (DL) notebook only**
+> - Enable a GPU runtime:
+>   - **Runtime → Change runtime type**
+>   - **Hardware accelerator → T4 GPU**
+>   - Click **Save**.
+
 #### Activity Notebook (Template)
+
+- **AI Coding Assistant – Basic Python (Template)**  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_Python%20-%20Template.ipynb)
 
 - **AI Coding Assistant – ML (Template)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Template.ipynb)
@@ -92,6 +109,9 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_DL%20-%20Template.ipynb)
 
 #### Solution Notebook
+
+- **AI Coding Assistant – Basic Python (Solution)**  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_Python%20-%20Solution.ipynb)
 
 - **AI Coding Assistant – ML (Solution)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Solution.ipynb)
