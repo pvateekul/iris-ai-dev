@@ -75,9 +75,7 @@ The first day focuses on the fundamentals of data science and artificial intelli
 
 ---
 
-### **IRIS Day 1 Workshop**
-
-<!-- TODO: add IRIS workshop -->
+### **IRIS Day 1 Activity**
 
 AI Coding Assistant Activity using Google Gemini (Colab)
 
@@ -139,6 +137,12 @@ Participants will:
     - Evaluation
 3. Compare with the **Solution notebook**
 4. Discuss differences and improvements
+
+### **IRIS Day 1 Workshop**
+
+- Prompt Template: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/11NEWfB6zz3cdOD_GQXXWTliqNnz7aihuTvRCi0-3EHA/edit?usp=sharing)
+- Example Solution: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1eDk2ZR2qNSuXcKfItFn-7gShdWc2oxxZtLKycE8CuyQ/edit?usp=sharing)
+- IRIS Activity 1: [slide](./Day%201/Activity/Subject%207_%20IRIS%20Activities%20Day%201.pdf)
 
 ---
 
