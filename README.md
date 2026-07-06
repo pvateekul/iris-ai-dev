@@ -178,6 +178,12 @@ The second day introduces modern Generative AI development, including LLM framew
 
 * **2.5** IRIS Day 2 Workshop
 
+### **IRIS Day 2 Workshop**
+
+- Activity Template: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1JmmQPTVxLzdKpEljYzSluPOVyliDrDA53oFnRIyV2qw/edit?usp=sharing)
+- Example Solution: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/10cF3EBoh3oCGbCD0emWeDirsSYEtTOC_PPGhBEjRRTs/edit?usp=sharing)
+- รุ่นที่ 24 CSI Private Google Drive: [link](https://drive.google.com/drive/folders/1xXSpEBgCklrElfN732kTQu7Lqi3Qhkw-?usp=sharing)
+
 ---
 
 ## Learning Objectives
