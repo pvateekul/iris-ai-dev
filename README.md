@@ -160,7 +160,7 @@ The second day introduces modern Generative AI development, including LLM framew
 	<details>
 	<summary>View notebooks</summary>
 
-	1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-ai-dev/main/Day_2/Codex/assets/codex_lab_attachments.zip)
+	1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-ai-dev/main/Day%202/Codex/assets/codex_lab_attachments.zip)
 	2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 	</details>
