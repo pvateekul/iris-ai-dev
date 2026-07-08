@@ -63,16 +63,6 @@ The first day focuses on the fundamentals of data science and artificial intelli
 
     </details>
 
-* **1.5** Prompt Engineering
-    <details>
-    <summary>View notebooks</summary>
-
-    1. Prompt Engineering [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/01_prompt_engineering.ipynb)
-    2. RAG [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/02_rag.ipynb)
-    3. Agentic Workflow [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/03_agentic_workflow.ipynb)
-
-    </details>
-
 ---
 
 ### **IRIS Day 1 Activity**
@@ -154,7 +144,15 @@ The second day introduces modern Generative AI development, including LLM framew
 
 ### Modules
 
-* **2.1** LLM Frameworks: LangChain, LangGraph, and LangSmith
+* **2.1** LLM Frameworks: LangChain, LangGraph
+    <details>
+    <summary>View notebooks</summary>
+
+    1. Prompt Engineering [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/01_prompt_engineering.ipynb)
+    2. RAG [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/02_rag.ipynb)
+    3. Agentic Workflow [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/03_agentic_workflow.ipynb)
+
+    </details>
 
 * **2.2** OpenAI Codex (Standalone)
 	<details>
@@ -165,7 +163,12 @@ The second day introduces modern Generative AI development, including LLM framew
 
 	</details>
 
-* **2.3** OpenAI Codex for Visual Studio Code (Full-Stack Software Development)
+* **2.3** OpenAI Codex for Visual Studio Code (Software Development)
+  <details>
+  1. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/Codex_VSCode/Codex_VSCode.pdf)
+  2. Lab Sheet: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-yw20j5-Sisopcd-O9kX18SCozAEHZup/edit?usp=sharing)
+  </details>
+
 
 * **2.4** OpenClaw
 	<details>
@@ -175,8 +178,6 @@ The second day introduces modern Generative AI development, including LLM framew
 	2. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/OpenClaw/slides/OpenClaw.pdf)
 
 	</details>
-
-* **2.5** IRIS Day 2 Workshop
 
 ### **IRIS Day 2 Workshop**
 
