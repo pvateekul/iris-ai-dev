@@ -165,8 +165,11 @@ The second day introduces modern Generative AI development, including LLM framew
 
 * **2.3** OpenAI Codex for Visual Studio Code (Software Development)
   <details>
+  <summary>View notebooks</summary>
+
   1. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/Codex_VSCode/Codex_VSCode.pdf)
   2. Lab Sheet: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-yw20j5-Sisopcd-O9kX18SCozAEHZup/edit?usp=sharing)
+  
   </details>
 
 
