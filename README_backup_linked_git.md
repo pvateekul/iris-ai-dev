@@ -133,7 +133,7 @@ Participants will:
 - Prompt Pack for Web Version (ChatGPT): [![Open In Google Docs](https://github.com/pvateekul/IRIS-AI-FOOD/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1QVCuzsA3GthoOyU3CoB8JbyY6feOpMqVYXHlA22X9B0/edit?usp=sharing)
 - Prompt Template: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/11NEWfB6zz3cdOD_GQXXWTliqNnz7aihuTvRCi0-3EHA/edit?usp=sharing)
 - Example Solution: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1eDk2ZR2qNSuXcKfItFn-7gShdWc2oxxZtLKycE8CuyQ/edit?usp=sharing)
-- IRIS Activity 1: [slide](https://drive.google.com/file/d/1zpFVWrNC3WjXrcTHS56-xvjGSB2arZTf/view?usp=sharing)
+- IRIS Activity 1: [slide](./Day%201/Activity/Subject%207_%20IRIS%20Activities%20Day%201.pdf)
 - รุ่นที่ 24 CSI Private Google Drive: [link](https://drive.google.com/drive/folders/1xXSpEBgCklrElfN732kTQu7Lqi3Qhkw-?usp=sharing)
 
 ---
@@ -158,7 +158,7 @@ The second day introduces modern Generative AI development, including LLM framew
 	<details>
 	<summary>View notebooks</summary>
 
-	1. Attachment: [Download Codex Lab Attachments (.zip)](https://drive.google.com/file/d/1NLm2rX23o7uf4MbkxdSv_b-5v4QGE37H/view?usp=sharing)
+	1. Attachment: [Download Codex Lab Attachments (.zip)](https://raw.githubusercontent.com/pvateekul/iris-ai-dev/main/Day%202/Codex/assets/codex_lab_attachments.zip)
 	2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 	</details>
@@ -167,7 +167,7 @@ The second day introduces modern Generative AI development, including LLM framew
   <details>
   <summary>View notebooks</summary>
 
-  1. Slide: [Slide](https://drive.google.com/file/d/1dP4Mum2d8ulcxvPpAQGNUTulkbl9yik4/view?usp=sharing)
+  1. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/Codex_VSCode/Codex_VSCode.pdf)
   2. Lab Sheet: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-yw20j5-Sisopcd-O9kX18SCozAEHZup/edit?usp=sharing)
   
   </details>
@@ -178,7 +178,7 @@ The second day introduces modern Generative AI development, including LLM framew
 	<summary>View notebooks</summary>
 
 	1. OpenClaw Lab Demo Prompts: [Prompt Templates](./Day%202/OpenClaw/Prompts.md)
-	2. Slide: [Slide](https://drive.google.com/file/d/1tMnEFFu6TEWXQyccW3oGjM12inQHBdYi/view?usp=sharing)
+	2. Slide: [Slide](https://github.com/pvateekul/iris-ai-dev/blob/main/Day%202/OpenClaw/slides/OpenClaw.pdf)
 
 	</details>
 
