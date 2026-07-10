@@ -54,15 +54,6 @@ The first day focuses on the fundamentals of data science and artificial intelli
 
     </details>
 
-* **1.4** Deep Learning
-    <details>
-    <summary>View notebooks</summary>
-
-    1. Ultralyricshub: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Deep%20Learning/1_ultralyricshub.ipynb)
-    2. Ultralyrics: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Deep%20Learning/2_ultralyrics.ipynb)  
-
-    </details>
-
 ---
 
 ### **IRIS Day 1 Activity**
@@ -78,12 +69,6 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
 > - Turn **off** **Hide generative AI features**.
 > - Turn **on** **Show AI-powered inline completions**.
 > - Ensure **Consented to use generative AI features** is enabled.
->
-> **2. For the Deep Learning (DL) notebook only**
-> - Enable a GPU runtime:
->   - **Runtime → Change runtime type**
->   - **Hardware accelerator → T4 GPU**
->   - Click **Save**.
 
 #### Activity Notebook (Template)
 
@@ -93,9 +78,6 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
 - **AI Coding Assistant – ML (Template)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Template.ipynb)
 
-- **AI Coding Assistant – DL (Template)**  
-  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_DL%20-%20Template.ipynb)
-
 #### Solution Notebook
 
 - **AI Coding Assistant – Python (Solution)**  
@@ -103,9 +85,6 @@ This workshop allows participants to act as **AI-assisted developers**, using Ge
 
 - **AI Coding Assistant – ML (Solution)**  
   [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_ML%20-%20Solution.ipynb)
-
-- **AI Coding Assistant – DL (Solution)**  
-  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Activity/AI_Coding_Assistant_Gemini_Colab_DL%20-%20Solution.ipynb)
 
 #### Workshop Goals
 
@@ -138,23 +117,32 @@ Participants will:
 
 ---
 
-## Day 2: Generative AI
+## Day 2: Deep Learning
 
-The second day introduces modern Generative AI development, including LLM frameworks, AI-assisted software engineering, and production-ready AI workflows.
+The second day introduces participants to deep learning and provides hands-on exposure to tools and platforms including NotebookLM, Roboflow, Codex, and OpenClaw.
 
 ### Modules
 
-* **2.1** LLM Frameworks: LangChain, LangGraph
+* **2.1** Deep Learning
     <details>
     <summary>View notebooks</summary>
 
-    1. Prompt Engineering [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/01_prompt_engineering.ipynb)
-    2. RAG [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/02_rag.ipynb)
-    3. Agentic Workflow [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%201/Prompt%20Engineering/codes/03_agentic_workflow.ipynb)
+    1. Ultralyricshub: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/1_ultralyricshub.ipynb)
+    2. Ultralyrics: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/2_ultralyrics.ipynb)  
 
     </details>
 
-* **2.2** OpenAI Codex (Standalone)
+* **2.2** Imaging tools
+	<details>
+	<summary>View notebooks</summary>
+
+  1. Object detection (Ultralytics Hub): [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Roboflow/Lab_1_Detection.ipynb)
+
+  2. Segmentation (MONAI): [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Roboflow/Lab_2_Segmentation.ipynb)
+
+	</details>
+
+* **2.3** OpenAI Codex (Standalone)
 	<details>
 	<summary>View notebooks</summary>
 
@@ -162,16 +150,6 @@ The second day introduces modern Generative AI development, including LLM framew
 	2. Codex Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1SfCI6p4yOJ9RkIKWNJGU6aY3EctLOXwh/edit?usp=sharing&ouid=110988009260882465038&rtpof=true&sd=true")
 
 	</details>
-
-* **2.3** OpenAI Codex for Visual Studio Code (Software Development)
-  <details>
-  <summary>View notebooks</summary>
-
-  1. Slide: [Slide](https://drive.google.com/file/d/1dP4Mum2d8ulcxvPpAQGNUTulkbl9yik4/view?usp=sharing)
-  2. Lab Sheet: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-yw20j5-Sisopcd-O9kX18SCozAEHZup/edit?usp=sharing)
-  
-  </details>
-
 
 * **2.4** OpenClaw
 	<details>
@@ -182,11 +160,78 @@ The second day introduces modern Generative AI development, including LLM framew
 
 	</details>
 
+* **2.5** NotebookLM
+	<details>
+	<summary>View notebooks</summary>
+
+  1. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
+
+	</details>
+
+---
+
+### **IRIS Day 2 Activity**
+
+AI Coding Assistant Activity using Google Gemini (Colab)
+
+This workshop allows participants to act as **AI-assisted developers**, using Gemini to build data science and machine learning workflows interactively.
+
+> **Setup Notes**
+>
+> **1. Enable Gemini AI features in Colab**
+> - Go to **Tools → Settings → AI assistance**.
+> - Turn **off** **Hide generative AI features**.
+> - Turn **on** **Show AI-powered inline completions**.
+> - Ensure **Consented to use generative AI features** is enabled.
+>
+> **2. For the Deep Learning (DL) notebook only**
+> - Enable a GPU runtime:
+>   - **Runtime → Change runtime type**
+>   - **Hardware accelerator → T4 GPU**
+>   - Click **Save**.
+
+#### Activity Notebook (Template)
+
+- **AI Coding Assistant – DL (Template)**  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Activity/AI_Coding_Assistant_Gemini_Colab_DL%20-%20Template.ipynb)
+
+#### Solution Notebook
+
+- **AI Coding Assistant – DL (Solution)**  
+  [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Activity/AI_Coding_Assistant_Gemini_Colab_DL%20-%20Solution.ipynb)
+
 ### **IRIS Day 2 Workshop**
 
 - Activity Template: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1JmmQPTVxLzdKpEljYzSluPOVyliDrDA53oFnRIyV2qw/edit?usp=sharing)
 - Example Solution: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/10cF3EBoh3oCGbCD0emWeDirsSYEtTOC_PPGhBEjRRTs/edit?usp=sharing)
 - รุ่นที่ 24 CSI Private Google Drive: [link](https://drive.google.com/drive/folders/1xXSpEBgCklrElfN732kTQu7Lqi3Qhkw-?usp=sharing)
+
+---
+
+## Day 3: Generative AI
+
+The third day introduces modern Generative AI development, including LLM frameworks, AI-assisted software engineering, and production-ready AI workflows.
+
+### Modules
+
+* **3.1** OpenAI Codex for Visual Studio Code (Software Development)
+  <details>
+  <summary>View notebooks</summary>
+
+  1. Slide: [Slide](https://drive.google.com/file/d/1dP4Mum2d8ulcxvPpAQGNUTulkbl9yik4/view?usp=sharing)
+  2. Lab Sheet: [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1-yw20j5-Sisopcd-O9kX18SCozAEHZup/edit?usp=sharing)
+  
+  </details>
+
+* **3.2** LLM Frameworks: LangChain, LangGraph
+    <details>
+    <summary>View notebooks</summary>
+
+    1. Prompt Engineering [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%203/Prompt%20Engineering/codes/01_prompt_engineering.ipynb)
+    2. RAG [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%203/Prompt%20Engineering/codes/02_rag.ipynb)
+    3. Agentic Workflow [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%203/Prompt%20Engineering/codes/03_agentic_workflow.ipynb)
+
+    </details>
 
 ---
 
