@@ -127,8 +127,8 @@ The second day introduces participants to deep learning and provides hands-on ex
     <details>
     <summary>View notebooks</summary>
 
-    1. Ultralyricshub: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/1_ultralyricshub.ipynb)
-    2. Ultralyrics: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/2_ultralyrics.ipynb)  
+    1. Load Ultralytics HUB Model & Inference: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/1_ultralyricshub.ipynb)
+    2. Train & Test Ultralytidcs Model: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/2_ultralyrics.ipynb)  
 
     </details>
 
