@@ -256,7 +256,7 @@ The third day introduces modern Generative AI development, including LLM framewo
 	<details>
 	<summary>View notebooks</summary>
 
-  1. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
+  1. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/images/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
 
 	</details>
 
