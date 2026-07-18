@@ -130,6 +130,9 @@ The second day introduces participants to deep learning and provides hands-on ex
     1. Load Ultralytics HUB Model & Inference: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/1_ultralyricshub.ipynb)
     2. Train & Test Ultralytidcs Model: [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%202/Deep%20Learning/2_ultralyrics.ipynb)  
 
+    - Slide : [Slide](https://drive.google.com/file/d/1nwXXxh3ux4MoNP0y0W91m7vzte3EXz8m/view?usp=sharing)
+    - Dataset 1 (Polyp) : [Download](https://drive.google.com/file/d/1G6idn8BCF2Hqz4ZQdrztwnyVG35QdIyr/view?usp=sharing)
+    - Dataset 2 (Defect Detection) : [Download](https://drive.google.com/file/d/13CXJV4maiM-ILN8nfB_jnm9giItChriF/view?usp=sharing)
     </details>
 
 * **2.2** Roboflow
