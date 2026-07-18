@@ -123,7 +123,7 @@ The second day introduces participants to deep learning and provides hands-on ex
 
 ### Modules
 
-* **2.1** Deep Learning
+* **2.1** Deep Learning: CNN
     <details>
     <summary>View notebooks</summary>
 
@@ -132,7 +132,7 @@ The second day introduces participants to deep learning and provides hands-on ex
 
     </details>
 
-* **2.2** Imaging tools
+* **2.2** Roboflow
 	<details>
 	<summary>View notebooks</summary>
 
@@ -157,14 +157,6 @@ The second day introduces participants to deep learning and provides hands-on ex
 
 	1. OpenClaw Lab Demo Prompts: [Prompt Templates](./Day%202/OpenClaw/Prompts.md)
 	2. Slide: [Slide](https://drive.google.com/file/d/1tMnEFFu6TEWXQyccW3oGjM12inQHBdYi/view?usp=sharing)
-
-	</details>
-
-* **2.5** NotebookLM
-	<details>
-	<summary>View notebooks</summary>
-
-  1. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
 
 	</details>
 
@@ -232,6 +224,15 @@ The third day introduces modern Generative AI development, including LLM framewo
     3. Agentic Workflow [![Open In Colab](https://github.com/pvateekul/iris-ai-dev/blob/main/images/colab-badge.svg?raw=true)](https://colab.research.google.com/github/pvateekul/iris-ai-dev/blob/main/Day%203/Prompt%20Engineering/codes/03_agentic_workflow.ipynb)
 
     </details>
+
+<!-- TODO: N8N -->
+* **3.3** NotebookLM
+	<details>
+	<summary>View notebooks</summary>
+
+  1. NotebookLM Lab Sheet [![Open In Google Docs](https://github.com/pvateekul/iris-ai-dev/blob/main/image/ggdoclogo.svg?raw=true)](https://docs.google.com/document/d/1seooI6m9VGKpX8227rI6ElyxSCbb44uYgngkMbZhtsM/edit?usp=sharing)
+
+	</details>
 
 ---
 
